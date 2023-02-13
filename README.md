@@ -20,3 +20,6 @@ Example: Alternative model 1
 ![image](https://user-images.githubusercontent.com/111457110/218360375-d84978be-e9ef-4188-8453-1e7e711c1d6e.png)
 ![image](https://user-images.githubusercontent.com/111457110/218360413-cc107176-1a12-4402-b48e-36a474c174b7.png)
 ![image](https://user-images.githubusercontent.com/111457110/218360468-8c326000-a94d-4d80-bd9f-6446c44a5026.png)
+
+CONCLUSION: 
+The original model and alternative model 2 had similar accuracy results, whereas alternative model 1 had lower accuracy results than model 1. As such, I would propose to use the original binary classification model for evalutating applications from startups.
